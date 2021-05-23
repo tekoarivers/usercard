@@ -1,0 +1,33 @@
+#message {
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 4px 4px 4px skyblue;
+    /* change the position properties here */
+    position: fixed; 
+    bottom: 80px;
+    width: 50vw;
+}
+
+#message .header{
+    border: solid 1px skyblue;
+    height: 80px;
+    width: auto;
+    background-color: skyblue;
+    /* border-radius: 10px 10px 0 0; */
+}
+
+img{
+    height: 75px;
+}
+
+.imgg{
+    height: 10px;
+}
+
+.imggg{
+    height: 15px;
+}
+
+#something{
+    transform: translate(10px, -37.5px);
+}
